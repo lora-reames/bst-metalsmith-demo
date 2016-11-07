@@ -7,7 +7,7 @@ Metalsmith(__dirname)
   .metadata({
     title: "BlyncSync Technology",
     description: "It's about saying »Hello« to the World."
-    url: "http://patrickr.xyz/bst-metalsmith-demo"
+    url: "http://patrickr.xyz/bst-metalsmith-demo/"
   })
   .source('./src')
   .destination('./build')
