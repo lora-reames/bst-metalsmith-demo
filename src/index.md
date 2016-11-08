@@ -6,7 +6,7 @@ layout: layout.html
 
 <a href="/posts/first-post/">First post</a>
 
-<a href="{{ ../site.url}}/posts/second-post/">Second post</a>
+<a href="{{site.url}}/posts/second-post/">Second post</a>
 
 <a href="{{ ../site.url}}/posts/third-post/">Third post</a>
 
